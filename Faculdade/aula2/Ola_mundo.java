@@ -1,4 +1,4 @@
-package Faculdade.aula1;
+package Faculdade.aula2;
 
 public class Ola_mundo {
     public static void main(String[] args) {
