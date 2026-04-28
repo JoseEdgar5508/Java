@@ -1,7 +1,5 @@
 package aula14;
 
-import ex2.preco;
-
 public class ProjetoYoutube {
     public static void main(String[] args) {
         Video v[] = new Video[3];
