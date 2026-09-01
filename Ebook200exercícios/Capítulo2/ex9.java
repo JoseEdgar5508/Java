@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 
 
 /*Escreva um programa que declare variáveis locais e globais (dentro de uma classe).

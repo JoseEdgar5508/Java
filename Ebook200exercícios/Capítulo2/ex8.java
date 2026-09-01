@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 import java.util.Scanner;
 /*Crie um programa que peça ao usuário para digitar seu nome e sobrenome. O programa
 deve exibir uma mensagem de boas-vindas concatenando o nome e o sobrenome do
