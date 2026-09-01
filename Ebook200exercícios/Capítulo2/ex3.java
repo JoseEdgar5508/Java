@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 
 /*
     Crie um programa que declare e inicialize variáveis de todos os tipos primitivos em Java (int,

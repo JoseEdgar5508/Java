@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 /*Desenvolva um programa que exiba o valor de uma variável double com duas casas
 decimais. Utilize formatação para garantir que o valor seja exibido corretamente. */
 

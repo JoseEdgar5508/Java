@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 
 /*
    Escreva um programa Java que contenha três tipos de comentários: comentário de linha,

@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo2;
+package Ebook200exercícios.Capítulo3;
 import java.util.Scanner;
 /*Escreva um programa que leia três números inteiros do usuário e calcule a média aritmética
 deles. Exiba o resultado no console.

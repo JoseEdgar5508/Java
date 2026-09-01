@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 
 /*
     Crie um programa Java que exiba a mensagem "Olá, Mundo!" no console. Em seguida,

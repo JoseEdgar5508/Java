@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 
 /*
 Desenvolva um programa que declare duas variáveis int e realize as operações de soma,

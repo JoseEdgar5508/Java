@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 import java.util.Scanner;
 
 /*Escreva um programa que leia um número inteiro e um número decimal do teclado e, em

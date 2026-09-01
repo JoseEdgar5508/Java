@@ -1,4 +1,4 @@
-package Ebook200exercícios.Capítulo1;
+package Ebook200exercícios.Capítulo2;
 
 /*
 Escreva um programa que converta um valor double em int e outro valor int em double.
